@@ -1,0 +1,600 @@
+{
+  "disclaimer": "IMPORTANT NOTICE: DermaSense is an educational and public health awareness tool for preliminary skin lesion screening and triage. It DOES NOT provide medical diagnosis or treatment advice. Always seek immediate evaluation from a certified dermatologist, general physician, or emergency medical provider for any concerning skin lesion or health condition.",
+  "conditions": [
+    {
+      "condition_id": "mel",
+      "name": "Melanoma",
+      "category": "Malignant Skin Neoplasm",
+      "summary": "Melanoma is an aggressive form of skin cancer arising from melanocytes (pigment-producing cells). While it accounts for a smaller percentage of skin cancers compared to basal cell carcinoma, it causes the majority of skin cancer deaths due to its potential to metastasize quickly if not caught early.",
+      "symptoms": [
+        "A changing mole or newly developing pigmented spot on normal-appearing skin",
+        "Asymmetry: one half of the lesion does not match the contour or shape of the other half",
+        "Border irregularity: notched, scalloped, ragged, or poorly defined edges",
+        "Color variation: non-uniform coloration displaying varying shades of brown, black, tan, grey, red, white, or blue",
+        "Diameter: frequently larger than 6mm (approximate pencil eraser size), though early melanomas may be smaller",
+        "Evolving: notable change in size, shape, elevation, or new localized symptoms such as itching, tingling, or crusting",
+        "Ugly duckling sign: a lesion that appears distinctly different from all surrounding moles"
+      ],
+      "first_aid": [
+        "Do not scratch, pick, cut, scrape, or apply caustic home remedies to the lesion",
+        "Capture well-illuminated, in-focus photos with a metric ruler or coin beside the spot to record size and date",
+        "Shield the area from direct solar radiation using clothing or broad-spectrum sunscreen",
+        "Schedule an urgent clinical evaluation with a registered dermatologist or physician"
+      ],
+      "precautions": [
+        "Apply broad-spectrum sunscreen with SPF 30 or higher to exposed skin daily, reapplying every 2 hours",
+        "Avoid tanning beds and intense midday sun exposure between 10:00 AM and 4:00 PM",
+        "Wear wide-brimmed hats, UV-blocking sunglasses, and sun-protective clothing (UPF rated)",
+        "Conduct systematic monthly skin self-examinations utilizing the ABCDE rule and seek an annual professional skin check"
+      ],
+      "do_nots": [
+        "DO NOT use over-the-counter mole removal creams, acids, or salves",
+        "DO NOT assume a lesion is harmless merely because it is painless",
+        "DO NOT delay consultation when a dark or pigmented spot exhibits noticeable changes",
+        "DO NOT rely on mobile phone photo screens as a substitute for dermatoscopic examination and formal biopsy"
+      ],
+      "red_flags": [
+        "Spontaneous bleeding, persistent ulceration, or inability of the lesion to heal after 3 weeks",
+        "Rapid expansion in diameter or vertical elevation within weeks",
+        "Dark pigment spreading from the mole border into surrounding skin",
+        "A new pigmented vertical stripe under a fingernail or toenail without prior physical trauma (subungual melanoma sign)"
+      ],
+      "when_to_see_doctor": "Seek urgent medical evaluation from a dermatologist or general practitioner immediately if any skin spot shows asymmetry, border irregularity, multiple colours, rapid evolution, bleeding, or satisfies the ABCDE criteria.",
+      "sources": [
+        {
+          "authority": "NHS UK",
+          "url": "https://www.nhs.uk/conditions/melanoma-skin-cancer/",
+          "title": "Melanoma skin cancer: Overview, Symptoms, and Assessment"
+        },
+        {
+          "authority": "DermNet NZ",
+          "url": "https://dermnetnz.org/topics/melanoma",
+          "title": "Melanoma: Clinical features, staging, and management"
+        },
+        {
+          "authority": "American Academy of Dermatology (AAD)",
+          "url": "https://www.aad.org/public/diseases/skin-cancer/types/common/melanoma/symptoms",
+          "title": "Melanoma: Signs and Symptoms (ABCDE Checklist)"
+        }
+      ],
+      "reviewed_by_clinician": false
+    },
+    {
+      "condition_id": "nv",
+      "name": "Melanocytic Nevus (Common Mole)",
+      "category": "Benign Melanocytic Lesion",
+      "summary": "A melanocytic nevus is a common, non-cancerous skin growth caused by a localized proliferation of melanocytes. Moles can be present at birth (congenital) or develop during childhood and adult life (acquired), remaining benign in the vast majority of individuals.",
+      "symptoms": [
+        "Uniform round or oval spot with smooth, well-demarcated edges",
+        "Consistent color across the entire lesion, typically pink, tan, brown, or dark brown",
+        "Flat (junctional) or dome-shaped/raised (compound or dermal nevus)",
+        "Stable diameter, generally under 5 to 6 mm",
+        "Consistent appearance over months and years without sudden changes"
+      ],
+      "first_aid": [
+        "No active treatment or intervention is required for stable, unchanging moles",
+        "If a mole is irritated or nicked by shaving or clothing friction, cleanse gently with mild soap and water and protect with an adhesive bandage until healed",
+        "Take a baseline photograph for your personal wellness records to monitor stability over time"
+      ],
+      "precautions": [
+        "Protect moles from sunburn with broad-spectrum SPF 30+ sunscreen",
+        "Inspect all existing moles every month to verify they remain stable in size, border, and color",
+        "Have new or atypical moles checked by a clinician during regular health visits"
+      ],
+      "do_nots": [
+        "DO NOT attempt to scratch, slice, shave off, or chemically burn a mole at home",
+        "DO NOT use unproven caustic herbal pastes or corrosive agents",
+        "DO NOT ignore sudden changes in an existing mole's color, symmetry, or border"
+      ],
+      "red_flags": [
+        "Sudden development of asymmetry or irregular ragged edges",
+        "Development of multiple distinct colors (mottled black, dark brown, red, white)",
+        "Spontaneous bleeding, crusting, or painful inflammation without physical trauma",
+        "Rapid enlargement or change in an individual over 30 years of age"
+      ],
+      "when_to_see_doctor": "Schedule a routine dermatological visit if you have numerous moles (over 50), a family history of skin cancer, or notice any mole developing irregular borders, color changes, or atypical features.",
+      "sources": [
+        {
+          "authority": "NHS UK",
+          "url": "https://www.nhs.uk/conditions/moles/",
+          "title": "Moles: Overview, Causes, and Checking for Cancer Signs"
+        },
+        {
+          "authority": "DermNet NZ",
+          "url": "https://dermnetnz.org/topics/melanocytic-naevus",
+          "title": "Melanocytic naevus: Types, Features, and Dermoscopy"
+        },
+        {
+          "authority": "American Academy of Dermatology (AAD)",
+          "url": "https://www.aad.org/public/diseases/a-z/moles-overview",
+          "title": "Moles: Overview and When to See a Dermatologist"
+        }
+      ],
+      "reviewed_by_clinician": false
+    },
+    {
+      "condition_id": "bcc",
+      "name": "Basal Cell Carcinoma",
+      "category": "Non-Melanoma Skin Cancer",
+      "summary": "Basal cell carcinoma (BCC) is the most frequent form of skin cancer worldwide, arising in the basal layer of the epidermis. It grows slowly and very rarely spreads to distant organs, but if untreated it can cause significant local tissue destruction and ulceration.",
+      "symptoms": [
+        "Pearly, translucent, or shiny skin bump, often with visible tiny blood vessels (telangiectasia)",
+        "Non-healing sore or scab that bleeds, oozes, crusts, and seems to heal before recurring",
+        "Pink growth with a slightly elevated rolled border and central indentation or crusted dip",
+        "Flat, firm, pale, or yellowish scar-like area (morpheaform BCC) with indistinct borders",
+        "Typically located on sun-exposed zones: face, nose, ears, neck, scalp, shoulders, and back"
+      ],
+      "first_aid": [
+        "Do not pick, squeeze, or apply harsh chemical solutions to a non-healing spot or lesion",
+        "Keep the area clean with mild cleanser and protect against accidental friction",
+        "Shield the area from direct sunlight with a wide-brimmed hat and protective garments",
+        "Consult a dermatologist for a professional evaluation and biopsy"
+      ],
+      "precautions": [
+        "Protect skin daily with broad-spectrum SPF 30+ sunscreen, especially on high-exposure areas like the face and ears",
+        "Wear sun-protective clothing, broad-brimmed hats, and UV-filtering eyewear outdoors",
+        "Seek shade during peak sunlight hours (10 AM to 4 PM)",
+        "Perform regular self-checks for sores that do not resolve within 4 weeks"
+      ],
+      "do_nots": [
+        "DO NOT disregard a facial sore or scabby spot that repeatedly bleeds and fails to heal",
+        "DO NOT self-treat with over-the-counter wart removers, antibiotic ointments, or caustic pastes",
+        "DO NOT pick at crusty or pearly papules"
+      ],
+      "red_flags": [
+        "A persistent sore, ulcer, or bleeding spot that remains unhealed after 4 weeks",
+        "Lesion situated near sensitive anatomical structures (eyelid, nose, lip, ear canal)",
+        "Progressive enlargement, tissue breakdown, or formation of an ulcer with rolled borders"
+      ],
+      "when_to_see_doctor": "Book a clinical appointment with a doctor or dermatologist if you have a persistent sore that does not heal within 3 to 4 weeks, or an evolving pearly or bleeding bump.",
+      "sources": [
+        {
+          "authority": "NHS UK",
+          "url": "https://www.nhs.uk/conditions/non-melanoma-skin-cancer/",
+          "title": "Non-melanoma skin cancer: Symptoms, Types, and Treatment"
+        },
+        {
+          "authority": "DermNet NZ",
+          "url": "https://dermnetnz.org/topics/basal-cell-carcinoma",
+          "title": "Basal cell carcinoma: Clinical features, Subtypes, and Management"
+        },
+        {
+          "authority": "American Academy of Dermatology (AAD)",
+          "url": "https://www.aad.org/public/diseases/skin-cancer/types/common/bcc/symptoms",
+          "title": "Basal Cell Carcinoma: Signs and Symptoms"
+        }
+      ],
+      "reviewed_by_clinician": false
+    },
+    {
+      "condition_id": "akiec",
+      "name": "Actinic Keratosis and Intraepithelial Carcinoma",
+      "category": "Precancerous / In-situ Keratinocytic Lesion",
+      "summary": "Actinic keratosis (AK) is a rough, scaly patch on sun-damaged skin caused by cumulative ultraviolet radiation exposure. It is considered a precursor lesion that can, in a minority of cases, progress into invasive squamous cell carcinoma. Intraepithelial carcinoma (Bowen's disease) represents squamous cell carcinoma in situ confined entirely to the epidermis.",
+      "symptoms": [
+        "Dry, rough, gritty, sandpaper-like patch that is often felt before it is clearly seen",
+        "Flat or slightly raised scaly plaque, pink, red, tan, or skin-colored",
+        "Persistent crust or horn-like outgrowth (cutaneous horn) on sun-exposed zones",
+        "Mild stinging, tenderness, or itching when rubbed by clothing or exposed to sunlight",
+        "Most common on the face, bald scalp, ears, forearms, and backs of hands"
+      ],
+      "first_aid": [
+        "Do not aggressively scrape or scrub scaly patches with abrasive pads",
+        "Apply a gentle fragrance-free moisturizer to reduce dryness and peeling",
+        "Protect the skin area with broad-spectrum high-SPF sunscreen and wide-brimmed hat",
+        "Schedule an assessment with a healthcare professional for cryotherapy, topical field therapy, or biopsy"
+      ],
+      "precautions": [
+        "Avoid cumulative ultraviolet damage by practicing comprehensive sun safety daily",
+        "Use high SPF broad-spectrum sunscreen consistently year-round",
+        "Wear sun-protective hats with neck flaps and long-sleeved clothing",
+        "Undergo periodic skin surveillance if you have fair skin, extensive freckles, or significant sun exposure history"
+      ],
+      "do_nots": [
+        "DO NOT peel or pick off rough crusts repeatedly, which causes inflammation and masks progression",
+        "DO NOT assume persistent sandpaper-like roughness is mere dry skin if it does not respond to regular moisturizer",
+        "DO NOT use unregulated home acid peels or caustic salves"
+      ],
+      "red_flags": [
+        "Rapid thickening, induration, or formation of a firm, elevated nodule",
+        "Spontaneous tenderness, pain, ulceration, or persistent bleeding",
+        "Development of an enlarging red plaque exceeding 1 cm in diameter (suspicious for Bowen's disease or invasive SCC)"
+      ],
+      "when_to_see_doctor": "Visit a doctor or dermatologist if you detect persistent rough, scaly patches on sun-exposed areas that remain longer than several weeks or become tender, raised, or inflamed.",
+      "sources": [
+        {
+          "authority": "NHS UK",
+          "url": "https://www.nhs.uk/conditions/actinic-keratoses/",
+          "title": "Actinic keratoses (solar keratoses): Symptoms and Treatments"
+        },
+        {
+          "authority": "DermNet NZ",
+          "url": "https://dermnetnz.org/topics/actinic-keratosis",
+          "title": "Actinic keratosis: Clinical features, Risks, and Field treatments"
+        },
+        {
+          "authority": "American Academy of Dermatology (AAD)",
+          "url": "https://www.aad.org/public/diseases/skin-cancer/types/common/ak/symptoms",
+          "title": "Actinic Keratosis: Signs and Symptoms"
+        }
+      ],
+      "reviewed_by_clinician": false
+    },
+    {
+      "condition_id": "bkl",
+      "name": "Benign Keratosis-like Lesions",
+      "category": "Benign Epidermal Growth",
+      "summary": "This category encompasses common benign epidermal lesions including seborrhoeic keratoses, solar lentigines (age/liver spots), and lichen planus-like keratoses. Seborrhoeic keratoses are non-cancerous skin growths that commonly arise with advancing age, presenting with a distinctive 'stuck-on' appearance.",
+      "symptoms": [
+        "Well-demarcated round or oval papule or plaque that appears 'stuck-on' the skin surface",
+        "Texture ranges from smooth and velvety to warty, greasy, crusted, or scaly",
+        "Color varies from light yellow, tan, and light brown to dark brown or black",
+        "Sizes typically range from a few millimeters up to 2.5 centimeters",
+        "Generally painless and asymptomatic, though friction from clothing can cause occasional irritation or itchiness"
+      ],
+      "first_aid": [
+        "No medical intervention is required for benign seborrheic keratoses unless irritated",
+        "Avoid picking, peeling, or scratching the warty surface to prevent superficial bleeding and secondary bacterial infection",
+        "If snagged or bleeding due to trauma, gently clean the area and cover with a sterile dressing"
+      ],
+      "precautions": [
+        "Practice daily sun protection to reduce the occurrence of associated solar lentigines",
+        "Avoid mechanical friction on elevated lesions from jewelry, waistbands, or shirt collars",
+        "Have any new dark or warty lesion checked by a clinician to differentiate it from melanocytic neoplasms"
+      ],
+      "do_nots": [
+        "DO NOT attempt to scratch off, freeze with aerosol cans, or cut off warty growths at home",
+        "DO NOT confuse sudden, irregularly pigmented spots with harmless age spots without clinical confirmation",
+        "DO NOT use abrasive scrubbing tools on skin growths"
+      ],
+      "red_flags": [
+        "Rapid onset of hundreds of itchy seborrheic keratoses over a short period (sign of Leser-Trélat, warrants systemic evaluation)",
+        "Asymmetrical expansion, jagged borders, or variegated pigmentation resembling melanoma",
+        "Persistent ulceration or bleeding without mechanical irritation"
+      ],
+      "when_to_see_doctor": "Consult a healthcare provider if a warty growth becomes inflamed, painful, repeatedly bleeds, or if you cannot confidently distinguish it from an irregular mole or skin cancer.",
+      "sources": [
+        {
+          "authority": "NHS UK",
+          "url": "https://www.nhs.uk/conditions/seborrhoeic-keratoses/",
+          "title": "Seborrhoeic keratoses: Benign skin growths and removal guidance"
+        },
+        {
+          "authority": "DermNet NZ",
+          "url": "https://dermnetnz.org/topics/seborrhoeic-keratosis",
+          "title": "Seborrhoeic keratosis: Clinical features and dermoscopy"
+        },
+        {
+          "authority": "American Academy of Dermatology (AAD)",
+          "url": "https://www.aad.org/public/diseases/a-z/seborrheic-keratoses-overview",
+          "title": "Seborrheic Keratoses: Overview, Signs, and Treatment"
+        }
+      ],
+      "reviewed_by_clinician": false
+    },
+    {
+      "condition_id": "df",
+      "name": "Dermatofibroma",
+      "category": "Benign Fibrous Histiocytoma",
+      "summary": "A dermatofibroma is a very common, benign cutaneous nodule composed of fibroblasts, myofibroblasts, and histiocytes. It most frequently occurs on the lower legs of young to middle-aged adults, often developing after minor local trauma such as an insect bite or shaving nick.",
+      "symptoms": [
+        "Firm, solitary, button-like papule or nodule, typically 0.5 to 1.5 cm across",
+        "Color ranges from pink, yellow-tan, to light brown in fair skin, or dark brown/slate in deeper skin tones",
+        "Positive 'dimple sign' (pinch sign): pinching the skin around the lesion causes it to tether and dimple inward",
+        "Firm or hard texture upon palpation",
+        "Usually asymptomatic, but can occasionally itch, tender, or catch on razors"
+      ],
+      "first_aid": [
+        "Dermatofibromas are completely harmless and require no active medical intervention",
+        "Take care when shaving over the nodule to avoid nicking the elevated skin",
+        "If accidentally nicked, apply gentle direct pressure with a clean cloth to stop bleeding and apply an antiseptic dressing"
+      ],
+      "precautions": [
+        "Avoid repetitive mechanical irritation or scratching over the nodule",
+        "Document baseline size and appearance for your personal wellness records",
+        "Ensure any newly developing firm nodule is evaluated by a physician to establish benign identity"
+      ],
+      "do_nots": [
+        "DO NOT attempt to squeeze, lance, excise, or chemically burn the nodule at home",
+        "DO NOT panic if the lesion feels firm; dermatofibromas are characteristically dense and tethered to the dermis",
+        "DO NOT apply caustic acids or unverified topical salves"
+      ],
+      "red_flags": [
+        "Rapid enlargement over a few weeks or nodule growing beyond 2 cm",
+        "Multiple eruptive nodules appearing in a patient with autoimmune or immunosuppressive disease",
+        "Spontaneous ulceration, persistent bleeding, or irregular color variegation"
+      ],
+      "when_to_see_doctor": "See a doctor or dermatologist if a firm nodule first appears, causes persistent discomfort, bleeds repeatedly when nicked, or changes in size or appearance.",
+      "sources": [
+        {
+          "authority": "DermNet NZ",
+          "url": "https://dermnetnz.org/topics/dermatofibroma",
+          "title": "Dermatofibroma: Causes, Clinical Presentation, and Diagnosis"
+        },
+        {
+          "authority": "American Academy of Dermatology (AAD)",
+          "url": "https://www.aad.org/public/diseases/a-z/dermatofibroma",
+          "title": "Dermatofibroma: Overview and When Treatment Is Needed"
+        }
+      ],
+      "reviewed_by_clinician": false
+    },
+    {
+      "condition_id": "vasc",
+      "name": "Vascular Lesion (Pyogenic Granuloma / Hemangioma)",
+      "category": "Benign Vascular Proliferation",
+      "summary": "This category covers benign vascular proliferations of the skin and subcutaneous tissue, including cherry angiomas, pyogenic granulomas (lobular capillary hemangiomas), and hemangiomas. Pyogenic granulomas are rapidly growing, benign vascular nodules that easily bleed upon minor contact.",
+      "symptoms": [
+        "Bright red, violaceous, or purple papule or nodule with a shiny, moist, or raspberry-like surface",
+        "Cherry angiomas appear as small, bright red, flat or dome-shaped stable spots",
+        "Pyogenic granulomas often exhibit a distinct collarette of scale at their base",
+        "Pronounced tendency to bleed heavily following minimal trauma or friction",
+        "Common sites include fingers, lips, gums, face, and trunk"
+      ],
+      "first_aid": [
+        "If active bleeding occurs, apply firm, continuous direct pressure with a clean sterile gauze for 10 to 15 full minutes without lifting",
+        "Keep the affected limb elevated if feasible to reduce local blood pressure",
+        "Do not scratch, pick, or attempt to cauterize vascular bumps at home",
+        "Seek medical attention for formal electrodessication, curettage, or excision if bleeding recurs"
+      ],
+      "precautions": [
+        "Protect vascular lesions from physical friction, tight clothing, and sharp objects",
+        "Maintain good local skin hygiene to prevent secondary superficial infection",
+        "Consult a clinician promptly for pyogenic granulomas to prevent recurrent bleeding episodes"
+      ],
+      "do_nots": [
+        "DO NOT release pressure repeatedly during a bleeding episode to 'check' if it has stopped",
+        "DO NOT puncture, squeeze, or slice vascular nodules",
+        "DO NOT apply ice directly on broken skin without a clean cloth barrier"
+      ],
+      "red_flags": [
+        "Bleeding that fails to stop after 20 minutes of continuous direct pressure",
+        "Rapidly expanding vascular nodule with ulceration and dark pigment, requiring differentiation from nodular or amelanotic melanoma",
+        "Signs of secondary infection such as spreading surrounding redness, warmth, or purulent drainage"
+      ],
+      "when_to_see_doctor": "Visit a physician or urgent care center if bleeding cannot be controlled with direct pressure, or if a red nodule grows rapidly or repeatedly bursts.",
+      "sources": [
+        {
+          "authority": "NHS UK",
+          "url": "https://www.nhs.uk/conditions/haemangioma/",
+          "title": "Haemangioma and Vascular Birthmarks: Overview and Care"
+        },
+        {
+          "authority": "DermNet NZ",
+          "url": "https://dermnetnz.org/topics/pyogenic-granuloma",
+          "title": "Pyogenic granuloma: Causes, Symptoms, and Treatment"
+        }
+      ],
+      "reviewed_by_clinician": false
+    },
+    {
+      "condition_id": "eczema",
+      "name": "Atopic Dermatitis (Eczema)",
+      "category": "Chronic Inflammatory Skin Disorder",
+      "summary": "Atopic dermatitis is a chronic, relapsing inflammatory skin disease characterized by intense pruritus (itching), dry skin, barrier impairment, and localized eczematous lesions. It is part of the atopic triad along with asthma and allergic rhinitis.",
+      "symptoms": [
+        "Intense, persistent itching (pruritus), often worsening at night",
+        "Dry, cracked, sensitive, and scaly skin patches",
+        "Red to brownish-gray erythematous plaques, frequently affecting skin flexures (inside elbows, behind knees, neck, wrists)",
+        "Small raised bumps that may weep fluid and crust over when scratched",
+        "Thickened, leathery skin (lichenification) resulting from chronic rubbing and scratching"
+      ],
+      "first_aid": [
+        "Apply an unscented, thick emollient or barrier cream immediately following a short, lukewarm bath or shower to lock in moisture",
+        "Apply a cool, damp compress to intensely itchy areas for 10-15 minutes to soothe acute inflammation",
+        "Keep fingernails short and clean to minimize skin trauma and bacterial introduction from involuntary scratching",
+        "Consult a healthcare professional for guidance on topical anti-inflammatory treatments (e.g., topical corticosteroids or calcineurin inhibitors)"
+      ],
+      "precautions": [
+        "Moisturize skin liberally at least twice daily with fragrance-free ointments or rich creams",
+        "Take short lukewarm baths (5-10 minutes) and avoid hot showers that strip natural protective skin lipids",
+        "Use mild, soap-free synthetic detergent cleansers (syndets) with neutral pH",
+        "Wear soft, breathable cotton fabrics and avoid coarse wool or synthetic materials directly against the skin",
+        "Identify and minimize exposure to known personal flare triggers (detergents, harsh soaps, rapid temperature shifts, allergens)"
+      ],
+      "do_nots": [
+        "DO NOT use harsh antibacterial soaps, highly perfumed lotions, or bubble baths",
+        "DO NOT scratch or rub lesions vigorously; scratching damages the epidermal barrier and perpetuates the itch-scratch cycle",
+        "DO NOT stop prescribed maintenance emollients when active skin flares temporarily subside",
+        "DO NOT take long, steaming hot showers"
+      ],
+      "red_flags": [
+        "Signs of secondary bacterial infection: weeping yellowish crusts, pustules, rapidly spreading redness, or swelling (impetiginization)",
+        "Sudden development of widespread, painful, punched-out vesicular blisters with fever (eczema herpeticum, a medical emergency)",
+        "Eczema flare that is accompanied by fever, chills, or systemic malaise",
+        "Lack of response to standard prescribed topical therapies"
+      ],
+      "when_to_see_doctor": "See a doctor or dermatologist if the eczema is severely disrupting sleep or daily activities, fails to improve with regular emollients, or displays signs of infection such as honey-colored crusting or pus.",
+      "sources": [
+        {
+          "authority": "WHO / ICD-11",
+          "url": "https://icd.who.int/browse11/l-m/en#/http%3a%2f%2fid.who.int%2ficd%2fentity%2f2054670270",
+          "title": "WHO ICD-11: Atopic Eczema and Dermatitis Clinical Framework"
+        },
+        {
+          "authority": "MoHFW India / ICMR",
+          "url": "https://stw.icmr.org.in/",
+          "title": "Standard Treatment Workflows of India: Eczema and Dermatitis Management"
+        },
+        {
+          "authority": "NHS UK",
+          "url": "https://www.nhs.uk/conditions/atopic-eczema/",
+          "title": "Atopic eczema: Overview, Causes, Symptoms, and Treatment"
+        },
+        {
+          "authority": "American Academy of Dermatology (AAD)",
+          "url": "https://www.aad.org/public/diseases/eczema/types/atopic-dermatitis",
+          "title": "Atopic Dermatitis: Overview, Triggers, and Daily Management"
+        }
+      ],
+      "reviewed_by_clinician": false
+    },
+    {
+      "condition_id": "psoriasis",
+      "name": "Psoriasis",
+      "category": "Chronic Autoimmune / Immune-Mediated Skin Disease",
+      "summary": "Psoriasis is a chronic, non-communicable, immune-mediated disease characterized by hyperproliferation of keratinocytes driven by systemic inflammation. It causes skin cells to multiply up to ten times faster than normal, resulting in characteristic scaly plaques.",
+      "symptoms": [
+        "Raised, well-demarcated erythematous (red/pink) plaques covered with thick, silvery-white micaceous scales",
+        "Dry, cracked skin that may bleed when stretched or scratched",
+        "Psoriatic nail changes: pitting, oil-drop discoloration, subungual hyperkeratosis, or nail separation (onycholysis)",
+        "Plaques commonly appear symmetrically on extensor surfaces: elbows, knees, scalp, and lower back",
+        "Associated joint stiffness, pain, or swelling in 20-30% of patients (psoriatic arthritis)"
+      ],
+      "first_aid": [
+        "Apply thick moisturizing ointment or cream to soften scaly plaques and ease cracking",
+        "Do not forcibly pick or peel off adherent silver scales, which causes punctate bleeding (Auspitz sign)",
+        "Take a brief lukewarm bath with oatmeal or bath oil to soothe itching and reduce scale buildup",
+        "Consult a doctor or dermatologist for evidence-based topical, phototherapeutic, or systemic management"
+      ],
+      "precautions": [
+        "Keep skin consistently moisturized throughout the day",
+        "Avoid skin injury, cuts, scrapes, sunburn, or friction, which can induce new psoriatic plaques at the injury site (Koebner phenomenon)",
+        "Manage stress through relaxation techniques and regular physical activity, as emotional stress is a prominent flare trigger",
+        "Avoid smoking and heavy alcohol consumption, which exacerbate psoriasis severity",
+        "Monitor for joint pain or morning stiffness and inform your physician promptly"
+      ],
+      "do_nots": [
+        "DO NOT forcefully scratch or peel off adherent silvery scales",
+        "DO NOT abruptly discontinue oral corticosteroids or high-potency topical steroids without medical supervision (can provoke rebound pustular psoriasis)",
+        "DO NOT use abrasive loofahs or rough scrubs on active plaques"
+      ],
+      "red_flags": [
+        "Widespread generalized redness and scale shedding covering over 80-90% of the body surface area (erythrodermic psoriasis, a medical emergency)",
+        "Sudden eruption of numerous tiny pus-filled blisters across inflamed red skin accompanied by fever and chills (generalized pustular psoriasis)",
+        "Severe, progressive joint pain, swelling, and morning stiffness suggesting active psoriatic arthritis"
+      ],
+      "when_to_see_doctor": "Consult a healthcare professional or dermatologist for an accurate clinical assessment, tailored topical or systemic therapy plan, or if experiencing joint pain, swelling, or extensive body coverage.",
+      "sources": [
+        {
+          "authority": "World Health Organization (WHO)",
+          "url": "https://www.who.int/publications/i/item/9789241565189",
+          "title": "Global report on psoriasis: WHO Guidelines, Public Health Burden, and Action"
+        },
+        {
+          "authority": "MoHFW India / ICMR",
+          "url": "https://stw.icmr.org.in/",
+          "title": "Standard Treatment Workflows of India: Clinical Management of Psoriasis"
+        },
+        {
+          "authority": "NHS UK",
+          "url": "https://www.nhs.uk/conditions/psoriasis/",
+          "title": "Psoriasis: Symptoms, Causes, Types, and Treatments"
+        }
+      ],
+      "reviewed_by_clinician": false
+    },
+    {
+      "condition_id": "tinea",
+      "name": "Tinea (Dermatophytosis / Ringworm)",
+      "category": "Superficial Fungal Infection",
+      "summary": "Tinea is a common superficial fungal infection of keratinized tissues (skin, hair, nails) caused by dermatophyte fungi (Trichophyton, Microsporum, or Epidermophyton species). It is contagious and spreads through direct skin contact or contaminated fomites.",
+      "symptoms": [
+        "Characteristic circular or ring-shaped rash with raised, active, scaly borders and clearer skin in the center (tinea corporis)",
+        "Intense, persistent itching, burning, or stinging in the affected area",
+        "Red, scaly, cracked skin between the toes or on the soles with itching (tinea pedis / athlete's foot)",
+        "Itchy, scaly red rash in the groin folds and upper inner thighs (tinea cruris / jock itch)",
+        "Brittle, thickened, discolored (yellow, white, or brown) fingernails or toenails (tinea unguium / onychomycosis)"
+      ],
+      "first_aid": [
+        "Wash the affected area gently with mild soap and water, and dry completely with a clean separate towel",
+        "Apply an over-the-counter topical antifungal cream (e.g., terbinafine, clotrimazole, or miconazole) strictly according to package instructions",
+        "Wash hands thoroughly after touching or applying medication to infected skin to prevent self-inoculation to other body sites",
+        "Wear clean, loose, breathable cotton clothing and change socks and underwear daily"
+      ],
+      "precautions": [
+        "Keep skin folds, groin, and feet clean and thoroughly dry, especially after bathing or strenuous exercise",
+        "Wear shower shoes, flip-flops, or sandals in public locker rooms, gym showers, and public pool surrounds",
+        "Never share towels, bed linens, clothing, hairbrushes, or personal sports gear with others",
+        "Inspect domestic pets for patchy fur loss, circular scaly patches, or scratching, and have infected pets treated by a veterinarian"
+      ],
+      "do_nots": [
+        "DO NOT apply over-the-counter topical corticosteroid creams (such as hydrocortisone or betamethasone) to suspected fungal rashes; steroids suppress local immunity, exacerbate the fungal infection, and produce 'tinea incognito'",
+        "DO NOT share personal grooming tools, nail clippers, towels, or socks",
+        "DO NOT walk barefoot in communal showers, locker rooms, or hotel carpets",
+        "DO NOT stop topical antifungal therapy prematurely when the rash first fades; complete the full recommended duration (typically 2-4 weeks)"
+      ],
+      "red_flags": [
+        "Infection on the scalp (tinea capitis) in children, which requires prescription systemic oral antifungals to prevent permanent cicatricial alopecia",
+        "Signs of secondary bacterial infection: increasing erythema, warmth, severe pain, purulent discharge, or ascending red streaks",
+        "Fungal infection failing to improve or worsening after 2 weeks of compliant topical antifungal therapy",
+        "Extensive or recalcitrant fungal infection in individuals with diabetes or compromised immunity"
+      ],
+      "when_to_see_doctor": "Consult a physician or primary healthcare provider if the rash does not improve within 2 weeks of antifungal cream use, if the scalp or nails are affected, or if there is swelling, severe pain, or pus.",
+      "sources": [
+        {
+          "authority": "Centers for Disease Control and Prevention (CDC)",
+          "url": "https://www.cdc.gov/fungal-diseases/ringworm/",
+          "title": "Ringworm (Tinea): Symptoms, Transmission, Treatment, and Prevention"
+        },
+        {
+          "authority": "MoHFW India / ICMR",
+          "url": "https://stw.icmr.org.in/",
+          "title": "Standard Treatment Workflows of India: Dermatophytosis (Fungal Infections) Management"
+        },
+        {
+          "authority": "NHS UK",
+          "url": "https://www.nhs.uk/conditions/ringworm/",
+          "title": "Ringworm: Overview, Self-care, and Antifungal Treatments"
+        }
+      ],
+      "reviewed_by_clinician": false
+    },
+    {
+      "condition_id": "acne",
+      "name": "Acne Vulgaris",
+      "category": "Inflammatory Pilosebaceous Disorder",
+      "summary": "Acne vulgaris is a chronic inflammatory disorder of the pilosebaceous units characterized by follicular hyperkeratinization, excess sebum production under hormonal influence, proliferation of Cutibacterium acnes, and host inflammation.",
+      "symptoms": [
+        "Non-inflammatory comedones: closed comedones (whiteheads) and open comedones (blackheads)",
+        "Inflammatory papules: small, tender, raised red bumps",
+        "Pustules: red papules with central white or yellow pus collection",
+        "Nodules and cysts: large, firm, painful, deep-seated lesions beneath the skin that carry high risk of permanent scarring",
+        "Common distribution: face, forehead, chest, upper back, and shoulders where sebaceous glands are most dense"
+      ],
+      "first_aid": [
+        "Wash affected skin twice daily with a gentle, non-abrasive, alcohol-free cleanser and lukewarm water",
+        "Apply a thin layer of over-the-counter benzoyl peroxide (2.5% to 5%) or salicylic acid to comedone-prone areas",
+        "Do not squeeze, pop, or extract pimples with fingernails or safety pins, which forces inflammation deeper and causes scarring and post-inflammatory hyperpigmentation",
+        "Apply an oil-free, non-comedogenic facial moisturizer to maintain skin barrier integrity"
+      ],
+      "precautions": [
+        "Choose skincare and cosmetic products labeled 'oil-free', 'non-comedogenic', or 'non-acnegenic'",
+        "Wash hair regularly and keep oily hair away from the face and forehead",
+        "Clean mobile phone screens and replace pillowcases regularly to reduce bacterial buildup",
+        "Allow acne medications 6 to 8 weeks to demonstrate visible therapeutic improvement before switching regimens"
+      ],
+      "do_nots": [
+        "DO NOT pick, squeeze, pop, or scratch acne blemishes",
+        "DO NOT aggressively scrub skin with abrasive washcloths, loofahs, or exfoliating granules",
+        "DO NOT use thick cocoa butter, heavy mineral oils, or pore-clogging pomades on acne-prone areas",
+        "DO NOT frequently touch the face with unwashed hands"
+      ],
+      "red_flags": [
+        "Severe nodulocystic acne with deep, interconnected, painful fluid-filled cysts, which rapidly produce permanent pitted or hypertrophic scarring",
+        "Severe, acute explosive acne flare accompanied by fever, joint pain, and leukocytosis (acne fulminans, requiring urgent systemic corticosteroid and isotretinoin therapy)",
+        "Sudden, severe adult-onset acne in females accompanied by hirsutism, alopecia, or menstrual irregularities (warrants screening for polycystic ovary syndrome or hyperandrogenism)"
+      ],
+      "when_to_see_doctor": "Consult a doctor or dermatologist if acne does not respond to 8 weeks of over-the-counter care, if you develop painful deep nodules or cysts, or if lesions are leaving dark marks or scars.",
+      "sources": [
+        {
+          "authority": "MoHFW India / ICMR",
+          "url": "https://stw.icmr.org.in/",
+          "title": "Standard Treatment Workflows of India: Clinical Management of Acne"
+        },
+        {
+          "authority": "American Academy of Dermatology (AAD)",
+          "url": "https://www.aad.org/public/diseases/acne/really-acne/overview",
+          "title": "Acne: Overview, Causes, Clinical Care, and Prevention"
+        },
+        {
+          "authority": "NHS UK",
+          "url": "https://www.nhs.uk/conditions/acne/",
+          "title": "Acne: Overview, Symptoms, and Medical Treatments"
+        }
+      ],
+      "reviewed_by_clinician": false
+    }
+  ]
+}
+

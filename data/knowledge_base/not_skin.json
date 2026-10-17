@@ -1,0 +1,62 @@
+{
+  "condition_id": "not_skin",
+  "name": "Non-Skin / Background Object",
+  "local_names": [
+    "Not skin",
+    "Clothing or object",
+    "Background"
+  ],
+  "description": "The uploaded photograph does not appear to show human skin, or the image may be out-of-focus, blurry, or showing clothing, paper, or everyday objects.",
+  "common_symptoms": [
+    "Image does not display skin texture, pores, or biological lesions",
+    "Subject is clothing, background, furniture, or a non-skin item"
+  ],
+  "causes": [
+    "Photo taken from too far away",
+    "Camera focused on clothing, room background, or foreign object",
+    "Extreme blurriness or lighting glare preventing skin analysis"
+  ],
+  "risk_factors": [
+    "Blurry photo",
+    "Poor room lighting"
+  ],
+  "first_aid": [
+    "Please retake the photo in a well-lit room",
+    "Hold the camera steady 10 to 15 centimeters from the skin lesion",
+    "Ensure the camera focuses directly on the skin spot, not your clothing or the background"
+  ],
+  "precautions": [
+    "Avoid camera flash glare directly on the spot",
+    "Take photos against clean natural lighting",
+    "Make sure the area of skin is in sharp focus"
+  ],
+  "home_care": [
+    "Retake a clear, focused photograph showing only the skin area of concern"
+  ],
+  "do_not": [
+    "DO NOT upload photos of clothing, documents, or distant room objects",
+    "DO NOT use digital filters or editing on health photos",
+    "DO NOT rely on blurred photographs for health awareness"
+  ],
+  "red_flags": [
+    "If you have a real physical skin symptom that worries you, do not delay seeing a healthcare provider in person"
+  ],
+  "when_to_see_doctor": "If you have an actual concerning skin spot, please visit a doctor or health clinic directly for an in-person skin examination.",
+  "contagious": false,
+  "severity_level": "low",
+  "prevention": [
+    "Always take well-lit, close-up photos of clean skin"
+  ],
+  "sources": [
+    {
+      "title": "Taking good photos for your doctor - NHS UK",
+      "url": "https://www.nhs.uk/conditions/using-the-nhs/nhs-services/gps/how-to-take-good-photos-for-your-doctor/"
+    },
+    {
+      "title": "How to do a skin self-exam - American Academy of Dermatology",
+      "url": "https://www.aad.org/public/diseases/skin-cancer/find/at-home-self-exams"
+    }
+  ],
+  "reviewed_by_clinician": false
+}
+

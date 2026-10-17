@@ -1,0 +1,79 @@
+{
+  "condition_id": "melanocytic_nevus",
+  "name": "Melanocytic Nevus (Common Mole)",
+  "local_names": [
+    "Common mole",
+    "Til",
+    "Masa",
+    "Massey",
+    "Beauty mark"
+  ],
+  "description": "A common mole is a harmless, non-cancerous skin spot made of pigment-producing cells. Most people have between 10 and 40 moles on their body, which usually appear during childhood and young adulthood.",
+  "common_symptoms": [
+    "Small round or oval spot with smooth, even borders",
+    "Single even color across the entire spot, usually pink, tan, or brown",
+    "Can be flat or slightly raised above the skin",
+    "Usually smaller than 6 mm across (pencil eraser size)",
+    "Remains stable and does not change rapidly over time"
+  ],
+  "causes": [
+    "Normal clusters of pigment cells (melanocytes) growing together in the skin",
+    "Sunlight exposure during childhood",
+    "Family genetics"
+  ],
+  "risk_factors": [
+    "Fair skin and light hair",
+    "Frequent sun exposure",
+    "Family history of many moles"
+  ],
+  "first_aid": [
+    "Normal stable moles do not need any medical treatment",
+    "If accidentally cut or nicked while shaving, clean gently with soap and water and apply a clean bandage",
+    "Take a baseline photo to keep track of its appearance over time"
+  ],
+  "precautions": [
+    "Protect moles from sunburn with SPF 30+ sunscreen",
+    "Check your moles once a month to ensure they remain stable",
+    "Avoid scratching or rubbing elevated moles with rough jewelry or belts"
+  ],
+  "home_care": [
+    "Wash skin gently with mild soap and water",
+    "Moisturize skin if dry",
+    "Leave stable moles alone without picking"
+  ],
+  "do_not": [
+    "DO NOT try to cut, scrape, slice, or burn off a mole yourself",
+    "DO NOT apply strong acids or homemade chemicals to remove a mole",
+    "DO NOT ignore a mole if it starts growing, itching, or bleeding"
+  ],
+  "red_flags": [
+    "A mole that begins growing larger rapidly",
+    "A mole that develops jagged or fuzzy edges",
+    "A mole that turns black or has more than two different colors",
+    "A mole that starts bleeding, crusting, or oozing without being scratched"
+  ],
+  "when_to_see_doctor": "See a doctor if an existing mole changes in size, shape, or color, or if a new mole looks unusual compared to your other spots.",
+  "contagious": false,
+  "severity_level": "low",
+  "prevention": [
+    "Protect skin from strong sun exposure",
+    "Wear protective clothing and hats outdoors",
+    "Use broad-spectrum sunscreen daily"
+  ],
+  "sources": [
+    {
+      "title": "Moles - NHS UK",
+      "url": "https://www.nhs.uk/conditions/moles/"
+    },
+    {
+      "title": "Moles: Overview and Check Guidance - American Academy of Dermatology",
+      "url": "https://www.aad.org/public/diseases/a-z/moles-overview"
+    },
+    {
+      "title": "Melanocytic naevus - DermNet NZ",
+      "url": "https://dermnetnz.org/topics/melanocytic-naevus"
+    }
+  ],
+  "reviewed_by_clinician": false
+}
+

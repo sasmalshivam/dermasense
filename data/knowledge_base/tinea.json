@@ -1,0 +1,82 @@
+{
+  "condition_id": "tinea",
+  "name": "Tinea (Fungal Infection / Ringworm)",
+  "local_names": [
+    "Ringworm",
+    "Dermatophytosis",
+    "Daad",
+    "Dadru",
+    "Dhobi itch"
+  ],
+  "description": "Tinea is a common and contagious fungal skin infection. Despite its name 'ringworm', it is caused by microscopic fungi (dermatophytes), not a worm. It typically appears as an itchy, red or darker ring-shaped rash with clearer skin in the center.",
+  "common_symptoms": [
+    "An itchy, circular or ring-shaped rash with raised, scaly edges",
+    "The center of the ring may look clear, flat, or less red than the border",
+    "Cracking, scaling, peeling, and maceration between toes (athlete's foot)",
+    "Red, intensely itchy rash in groin folds (jock itch)",
+    "Rings can expand outward over days and overlap"
+  ],
+  "causes": [
+    "Fungal dermatophytes (such as Trichophyton, Microsporum, or Epidermophyton) feeding on dead skin keratin",
+    "Direct skin-to-skin contact with an infected person, pet (cats/dogs), livestock, or contaminated objects (towels, bedding, gym mats)"
+  ],
+  "risk_factors": [
+    "Living in warm, humid, tropical or subtropical climates",
+    "Excessive sweating and wearing tight, synthetic, damp clothing",
+    "Sharing towels, hairbrushes, clothing, or athletic equipment",
+    "Walking barefoot in public showers, locker rooms, or swimming pools",
+    "Diabetes or weakened immune defenses"
+  ],
+  "first_aid": [
+    "Wash the infected area with mild soap and water, then pat completely dry with a dedicated towel",
+    "Wash hands thoroughly after touching or cleaning the rash",
+    "Change out of sweaty clothes immediately into clean, dry cotton garments"
+  ],
+  "precautions": [
+    "Keep skin clean and dry, especially between toes and in skin folds",
+    "Do not share personal items like towels, clothes, hairbrushes, or razors",
+    "Wear flip-flops or water shoes in communal showers and locker rooms",
+    "Wash clothes, bedding, and towels in hot water"
+  ],
+  "home_care": [
+    "Keep the affected area thoroughly dry, particularly after bathing",
+    "Wear loose-fitting, breathable cotton clothing and underwear",
+    "Disinfect sports gear and shared surfaces"
+  ],
+  "do_not": [
+    "DO NOT apply steroid creams (like hydrocortisone, clobetasol, or combination steroid creams) to fungal rashes; steroids make fungal infections grow worse, spread deeper, and harder to treat (tinea incognito)",
+    "DO NOT share towels, socks, bedding, or clothing with family members",
+    "DO NOT scratch the rash and then touch other parts of your body",
+    "DO NOT walk barefoot in shared locker rooms or communal bathrooms"
+  ],
+  "red_flags": [
+    "The rash becomes intensely painful, swollen, warm, and leaks yellow pus (secondary bacterial infection)",
+    "Spreading red streaks moving up an arm or leg with fever",
+    "Fungal infection affecting the scalp with hair loss, swelling, and boggy masses (kerion)"
+  ],
+  "when_to_see_doctor": "See a doctor or dermatologist if over-the-counter antifungal cream does not improve the rash within 2 weeks, if the rash spreads widely, or if the scalp or nails are affected.",
+  "contagious": true,
+  "severity_level": "low",
+  "prevention": [
+    "Keep skin dry and cool throughout the day",
+    "Never share towels, bed sheets, or unwashed clothes",
+    "Treat household pets if they show scaly patches or missing fur",
+    "Wear clean cotton socks and change them at least once daily"
+  ],
+  "sources": [
+    {
+      "title": "Ringworm - Centers for Disease Control and Prevention (CDC)",
+      "url": "https://www.cdc.gov/fungal/diseases/ringworm/"
+    },
+    {
+      "title": "Ringworm - NHS UK",
+      "url": "https://www.nhs.uk/conditions/ringworm/"
+    },
+    {
+      "title": "Tinea corporis - DermNet NZ",
+      "url": "https://dermnetnz.org/topics/tinea-corporis"
+    }
+  ],
+  "reviewed_by_clinician": false
+}
+

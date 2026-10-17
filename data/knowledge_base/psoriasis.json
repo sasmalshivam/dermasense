@@ -1,0 +1,80 @@
+{
+  "condition_id": "psoriasis",
+  "name": "Psoriasis",
+  "local_names": [
+    "Plaque psoriasis",
+    "Silver scale condition",
+    "Kitibha",
+    "Chambal"
+  ],
+  "description": "Psoriasis is a chronic autoimmune condition where skin cells multiply much faster than normal. This causes thick, red, raised patches covered with silvery-white scales, commonly on the elbows, knees, scalp, and lower back.",
+  "common_symptoms": [
+    "Raised, inflamed, red patches of skin (may appear purplish or dark brown on darker skin)",
+    "Thick silvery-white or grayish scales on top of the patches",
+    "Dry, cracked skin that may bleed when stretched",
+    "Itching, burning, or soreness around the patches",
+    "Pitted, ridged, or thickened fingernails or toenails",
+    "Stiff, swollen, or painful joints (in psoriatic arthritis)"
+  ],
+  "causes": [
+    "An autoimmune reaction where T-cells mistakenly attack healthy skin cells",
+    "Excessively rapid skin cell turnover (taking days instead of weeks to shed)"
+  ],
+  "risk_factors": [
+    "Family history of psoriasis or autoimmune diseases",
+    "Emotional or physical stress",
+    "Skin injuries (cuts, scrapes, sunburns, bug bites - Koebner phenomenon)",
+    "Infections such as strep throat, cold dry weather, smoking, and heavy alcohol use"
+  ],
+  "first_aid": [
+    "Apply soothing emollients or moisturizing ointment to soften scales",
+    "Take a short lukewarm bath with colloidal oatmeal or bath oils to ease discomfort",
+    "Do not pull, peel, or forcibly pick off silvery scales"
+  ],
+  "precautions": [
+    "Moisturize skin immediately after washing",
+    "Avoid cold, dry weather exposure without protective warm clothing",
+    "Use a humidifier indoors during winter months",
+    "Wear loose, soft clothing that minimizes friction against skin plaques"
+  ],
+  "home_care": [
+    "Keep skin well moisturized with thick creams or ointments",
+    "Take daily baths with gentle cleansers to soften and wash away loose scales",
+    "Get moderate, safe sunlight exposure (consult your doctor for recommended minutes)"
+  ],
+  "do_not": [
+    "DO NOT aggressively peel or scrape off scales, as this can trigger worse patches (Koebner reaction)",
+    "DO NOT bathe in very hot water or scrub with harsh loofahs",
+    "DO NOT stop prescribed treatments abruptly without consulting your doctor"
+  ],
+  "red_flags": [
+    "Plaques suddenly cover more than 80-90% of the body with redness and peeling (erythrodermic psoriasis - emergency)",
+    "Widespread small blisters filled with pus accompanied by fever and chills (generalized pustular psoriasis)",
+    "Severe joint pain, warmth, and swelling in fingers, knees, or spine"
+  ],
+  "when_to_see_doctor": "See a doctor or dermatologist if you suspect you have psoriasis, if patches cause severe discomfort, or if you develop joint stiffness and pain.",
+  "contagious": false,
+  "severity_level": "medium",
+  "prevention": [
+    "Keep skin moisturized to prevent cracking",
+    "Avoid skin trauma, scratches, and sunburns",
+    "Quit smoking and limit alcohol consumption",
+    "Practice stress-relief techniques like meditation and regular exercise"
+  ],
+  "sources": [
+    {
+      "title": "Psoriasis - World Health Organization (WHO)",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/psoriasis"
+    },
+    {
+      "title": "Psoriasis - NHS UK",
+      "url": "https://www.nhs.uk/conditions/psoriasis/"
+    },
+    {
+      "title": "Psoriasis: Overview - American Academy of Dermatology",
+      "url": "https://www.aad.org/public/diseases/psoriasis"
+    }
+  ],
+  "reviewed_by_clinician": false
+}
+

@@ -1,0 +1,12 @@
+{
+  "idx_to_label": {
+    "0": "melanocytic_nevus",
+    "1": "melanoma",
+    "2": "not_skin"
+  },
+  "label_to_idx": {
+    "melanocytic_nevus": 0,
+    "melanoma": 1,
+    "not_skin": 2
+  }
+}

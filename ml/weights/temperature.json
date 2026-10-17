@@ -1,0 +1,9 @@
+{
+  "temperature": 1.9677711725234985,
+  "ece_before": 0.1402803310533849,
+  "ece_after": 0.10141248140877822,
+  "max_softmax_threshold": 0.5238525867462158,
+  "energy_threshold": -4.98613166809082,
+  "backbone": "efficientnet_b0",
+  "num_classes": 3
+}

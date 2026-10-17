@@ -1,0 +1,48 @@
+version: '3.8'
+
+# ====================================================================
+# DermaSense AI - Multi-Container Deployment Orchestration
+# Smart India Hackathon 2025 (Team Healthnautix, PS 25049)
+# ====================================================================
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    container_name: dermasense-backend
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      - PYTHONUNBUFFERED=1
+      - DERMASENSE_ADMIN_PASSWORD=${DERMASENSE_ADMIN_PASSWORD:-derma_admin_2025}
+      - DERMASENSE_CORS_ORIGINS=${DERMASENSE_CORS_ORIGINS:-http://localhost:5173,http://127.0.0.1:5173,http://localhost:8000,http://localhost:80}
+      - RATE_LIMIT_REQUESTS=60
+      - RATE_LIMIT_WINDOW_SECS=60
+    volumes:
+      - ./data:/app/data
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/api/health"]
+      interval: 20s
+      timeout: 5s
+      retries: 3
+      start_period: 25s
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: dermasense-frontend
+    ports:
+      - "5173:80"
+    depends_on:
+      backend:
+        condition: service_healthy
+    restart: unless-stopped
+
+networks:
+  default:
+    name: dermasense-network
+

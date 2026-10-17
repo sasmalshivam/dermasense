@@ -1,0 +1,83 @@
+{
+  "condition_id": "acne",
+  "name": "Acne Vulgaris",
+  "local_names": [
+    "Pimples",
+    "Zits",
+    "Yuvanapidika",
+    "Munhase"
+  ],
+  "description": "Acne is a very common skin condition that occurs when hair follicles under the skin become clogged with oil (sebum) and dead skin cells. It causes blackheads, whiteheads, red pimples, and sometimes deeper tender lumps.",
+  "common_symptoms": [
+    "Whiteheads (clogged pores that stay closed beneath the skin)",
+    "Blackheads (open clogged pores where surface oil turns dark from oxidation)",
+    "Small red, tender bumps (papules)",
+    "Pimples with white or yellow pus at the tips (pustules)",
+    "Large, solid, painful lumps deep beneath the skin (nodules or cystic lesions)",
+    "Most common on the face, forehead, chest, upper back, and shoulders"
+  ],
+  "causes": [
+    "Excess oil (sebum) production by skin oil glands",
+    "Hair follicles clogged by oil and dead skin cells",
+    "Proliferation of Cutibacterium acnes bacteria inside clogged pores",
+    "Inflammation and immune response in the pore wall"
+  ],
+  "risk_factors": [
+    "Hormonal shifts during puberty, menstrual cycles, or pregnancy",
+    "Family history of acne",
+    "Greasy or heavy pore-clogging cosmetics, lotions, or hair pomades",
+    "Friction or pressure from helmets, phone screens, tight collars, or backpacks",
+    "High glycemic index diets and psychological stress"
+  ],
+  "first_aid": [
+    "Wash face gently twice a day with a mild, non-drying cleanser",
+    "Apply a clean, warm washcloth for 5 minutes to soothe painful pimples",
+    "Do not pop, squeeze, or pick at lesions"
+  ],
+  "precautions": [
+    "Use skincare and makeup products clearly labeled 'non-comedogenic' or 'oil-free'",
+    "Wash your face gently with fingertips, avoiding harsh loofahs or abrasive scrubs",
+    "Shampoo your hair regularly if you have oily hair to prevent forehead breakouts",
+    "Keep phone screens and pillowcases clean"
+  ],
+  "home_care": [
+    "Wash face twice daily with lukewarm water and a gentle cleanser",
+    "Apply gentle over-the-counter benzoyl peroxide or salicylic acid gel consistently",
+    "Allow 6 to 8 weeks for acne products to show visible improvement"
+  ],
+  "do_not": [
+    "DO NOT squeeze, pop, or needle pimples, which forces bacteria deeper and causes scarring and dark spots",
+    "DO NOT scrub skin aggressively, which irritates skin and worsens acne",
+    "DO NOT apply toothpaste, lemon juice, or household baking soda to skin lesions",
+    "DO NOT touch or pick your face throughout the day"
+  ],
+  "red_flags": [
+    "Deep, painful, large cysts or nodules that can cause permanent pitted scarring",
+    "Sudden severe inflammatory acne eruption with joint pain and fever (acne fulminans)",
+    "Severe emotional distress, depression, or anxiety related to skin appearance"
+  ],
+  "when_to_see_doctor": "See a dermatologist or doctor if over-the-counter acne products do not improve your skin after 8 to 12 weeks, or if you have deep, painful cystic bumps that cause scars.",
+  "contagious": false,
+  "severity_level": "low",
+  "prevention": [
+    "Wash face morning, evening, and after heavy sweating",
+    "Always choose oil-free and non-comedogenic cosmetics and moisturizers",
+    "Remove all makeup thoroughly before going to sleep"
+  ],
+  "sources": [
+    {
+      "title": "Acne - NHS UK",
+      "url": "https://www.nhs.uk/conditions/acne/"
+    },
+    {
+      "title": "Acne: Overview and Symptoms - American Academy of Dermatology",
+      "url": "https://www.aad.org/public/diseases/acne"
+    },
+    {
+      "title": "Acne vulgaris - DermNet NZ",
+      "url": "https://dermnetnz.org/topics/acne-vulgaris"
+    }
+  ],
+  "reviewed_by_clinician": false
+}
+

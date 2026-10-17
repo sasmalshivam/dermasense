@@ -1,0 +1,73 @@
+{
+  "condition_id": "vascular_lesion",
+  "name": "Vascular Lesion (Cherry Angioma / Hemangioma)",
+  "local_names": [
+    "Cherry angioma",
+    "Campbell de Morgan spots",
+    "Blood spot",
+    "Rakta granthi"
+  ],
+  "description": "A vascular skin lesion is a collection of small blood vessels near the skin surface. The most common type is a cherry angioma, which looks like a bright red, smooth, small dome on the skin. They are non-cancerous and very common.",
+  "common_symptoms": [
+    "Bright red, purple, or deep crimson dome-shaped spot",
+    "Smooth surface, usually 1 to 5 millimeters across",
+    "Can bleed briskly if scratched, cut, or rubbed",
+    "Most often found on the torso, arms, shoulders, or legs"
+  ],
+  "causes": [
+    "Benign proliferation and widening of superficial blood vessels (capillaries)",
+    "Exact cause is not fully known; strongly associated with natural aging and genetic factors"
+  ],
+  "risk_factors": [
+    "Age over 30 years (they increase in number with advancing age)",
+    "Family history of cherry angiomas",
+    "Pregnancy or hormonal fluctuations"
+  ],
+  "first_aid": [
+    "If the spot is cut or bleeds, apply firm pressure with a clean cloth or gauze for 10 to 15 minutes",
+    "Keep the area elevated if on an arm or leg until bleeding stops",
+    "Apply a sterile adhesive bandage once bleeding is controlled"
+  ],
+  "precautions": [
+    "Avoid scratching, scrubbing, or shaving roughly over raised red spots",
+    "Protect skin from mechanical trauma or snagging on tight jewelry",
+    "Seek medical attention if bleeding does not stop after 20 minutes of firm pressure"
+  ],
+  "home_care": [
+    "Keep the spot clean with mild soap and water",
+    "Cover with a small plaster if it catches on clothing"
+  ],
+  "do_not": [
+    "DO NOT prick, scratch, or try to pop the red bump with a needle or pin",
+    "DO NOT apply burning chemicals or home remedies to remove blood spots",
+    "DO NOT pull away gauze abruptly while blood is clotting"
+  ],
+  "red_flags": [
+    "Continuous, rapid bleeding that will not stop after 20 minutes of steady pressure",
+    "A rapid-growing bleeding red lump that forms a collarette (may be a pyogenic granuloma)",
+    "A dark reddish-purple spot that develops jagged borders or turns black"
+  ],
+  "when_to_see_doctor": "See a healthcare provider if a red spot bleeds repeatedly, will not stop bleeding, grows very quickly, or changes to a dark uneven color.",
+  "contagious": false,
+  "severity_level": "low",
+  "prevention": [
+    "There is no proven prevention as vascular spots are primarily linked to genetics and age",
+    "Protect skin from harsh abrasions and trauma"
+  ],
+  "sources": [
+    {
+      "title": "Cherry angioma - DermNet NZ",
+      "url": "https://dermnetnz.org/topics/cherry-angioma"
+    },
+    {
+      "title": "Haemangioma - NHS UK",
+      "url": "https://www.nhs.uk/conditions/haemangioma/"
+    },
+    {
+      "title": "Vascular Birthmarks and Lesions - American Academy of Dermatology",
+      "url": "https://www.aad.org/public/diseases/a-z/birthmarks"
+    }
+  ],
+  "reviewed_by_clinician": false
+}
+

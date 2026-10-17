@@ -1,0 +1,72 @@
+{
+  "condition_id": "dermatofibroma",
+  "name": "Dermatofibroma",
+  "local_names": [
+    "Benign fibrous histiocytoma",
+    "Firm skin nodule",
+    "Twak granthi"
+  ],
+  "description": "A dermatofibroma is a harmless, firm, small bump that usually forms on the arms or legs. It often feels like a hard little bead or pebble under the skin and may dimple inward when you pinch it from the sides.",
+  "common_symptoms": [
+    "Small, firm bump (usually smaller than 1 centimeter)",
+    "Color can be pink, red, tan, light brown, or gray",
+    "Feels hard to the touch like a small pebble",
+    "Dimples downward into the skin when gently pinched (the 'dimple sign')",
+    "Commonly appears on lower legs or arms, sometimes after an insect bite"
+  ],
+  "causes": [
+    "An overgrowth of fibrous tissue in the skin dermis layer",
+    "Often triggered by a minor puncture injury, splinter, insect bite, or ingrown hair"
+  ],
+  "risk_factors": [
+    "More common in young and middle-aged adults",
+    "Slightly more frequent in women than men",
+    "History of insect bites or minor skin punctures"
+  ],
+  "first_aid": [
+    "No immediate medical emergency",
+    "Do not squeeze or attempt to puncture the nodule",
+    "Take care when shaving over the area so you do not nick it"
+  ],
+  "precautions": [
+    "Shave gently around the bump to prevent cuts and bleeding",
+    "Avoid repeatedly squeezing or pressing on the nodule",
+    "Notice if there are any changes in shape, size, or color"
+  ],
+  "home_care": [
+    "Keep the skin clean and moisturized",
+    "Cover with a small bandage if razor irritation occurs"
+  ],
+  "do_not": [
+    "DO NOT attempt to pop, cut, or squeeze the bump",
+    "DO NOT use over-the-counter boil or wart treatments on it"
+  ],
+  "red_flags": [
+    "The bump grows quickly in size beyond 1 to 2 centimeters",
+    "Spontaneous bleeding or open ulceration",
+    "Persistent pain or severe burning sensation"
+  ],
+  "when_to_see_doctor": "See a doctor or healthcare provider if you have a new firm bump that grows, bleeds easily, hurts, or if you want confirmation of what the bump is.",
+  "contagious": false,
+  "severity_level": "low",
+  "prevention": [
+    "Protect skin from insect bites with insect repellent",
+    "Avoid scratching minor puncture wounds or insect stings"
+  ],
+  "sources": [
+    {
+      "title": "Dermatofibroma - NHS UK",
+      "url": "https://www.nhs.uk/conditions/dermatofibroma/"
+    },
+    {
+      "title": "Dermatofibroma: Overview - American Academy of Dermatology",
+      "url": "https://www.aad.org/public/diseases/a-z/dermatofibroma"
+    },
+    {
+      "title": "Dermatofibroma - DermNet NZ",
+      "url": "https://dermnetnz.org/topics/dermatofibroma"
+    }
+  ],
+  "reviewed_by_clinician": false
+}
+

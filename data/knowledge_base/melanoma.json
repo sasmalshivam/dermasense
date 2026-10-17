@@ -1,0 +1,83 @@
+{
+  "condition_id": "melanoma",
+  "name": "Melanoma",
+  "local_names": [
+    "Skin cancer of pigment cells",
+    "Malignant melanoma",
+    "Gambhira twak karkata"
+  ],
+  "description": "Melanoma is a serious type of skin cancer. It starts in pigment cells called melanocytes that give skin its color. It can spread quickly to other body organs if not found early.",
+  "common_symptoms": [
+    "A mole that is changing size, shape, or color",
+    "One half of the spot does not match the other half (asymmetry)",
+    "Uneven, ragged, or jagged borders",
+    "Multiple colors in the same spot like black, brown, red, or white",
+    "A spot larger than a pencil eraser (wider than 6 mm)",
+    "A new spot that looks different from all your other moles (ugly duckling sign)"
+  ],
+  "causes": [
+    "DNA damage to skin cells caused by ultraviolet (UV) radiation from sunlight or tanning lamps",
+    "Genetic factors and inherited gene mutations"
+  ],
+  "risk_factors": [
+    "Having fair skin that burns easily in the sun",
+    "History of severe sunburns, especially in childhood",
+    "Having many moles (more than 50)",
+    "Family history of melanoma or skin cancer",
+    "Weak immune system"
+  ],
+  "first_aid": [
+    "Do not scratch, cut, squeeze, or apply home chemicals to the spot",
+    "Take a clear photo with a coin next to it to record the size and date",
+    "Cover the area with clothing to protect it from the sun",
+    "Book an urgent appointment with a dermatologist or doctor"
+  ],
+  "precautions": [
+    "Stay in the shade between 10 AM and 4 PM when the sun is strongest",
+    "Wear a wide hat, sunglasses, and long sleeves outdoors",
+    "Use broad-spectrum sunscreen with SPF 30 or higher every day",
+    "Check your skin from head to toe once every month"
+  ],
+  "home_care": [
+    "Keep the skin area clean and protected from rubbing",
+    "Avoid irritating the spot with harsh scrubs or tight waistbands",
+    "Do not attempt any home removal remedies"
+  ],
+  "do_not": [
+    "DO NOT try to scrape, cut, or burn off any mole at home",
+    "DO NOT use unproven herbal pastes, caustic creams, or wart removers",
+    "DO NOT wait to see if a changing dark spot goes away on its own",
+    "DO NOT ignore a spot because it does not hurt"
+  ],
+  "red_flags": [
+    "The spot bleeds, oozes, or forms a crust on its own",
+    "The spot grows rapidly in size or height within weeks",
+    "A new dark line appears under a fingernail or toenail without injury",
+    "The spot becomes painful, itchy, or swollen"
+  ],
+  "when_to_see_doctor": "See a dermatologist or doctor immediately if any mole changes color, shape, or size, has irregular edges, or bleeds.",
+  "contagious": false,
+  "severity_level": "high",
+  "prevention": [
+    "Avoid sunburns and tanning beds completely",
+    "Apply SPF 30+ sunscreen 20 minutes before going outside",
+    "Wear sun-protective clothing outdoors",
+    "Have a doctor check your skin regularly if you have many moles"
+  ],
+  "sources": [
+    {
+      "title": "Melanoma skin cancer - NHS UK",
+      "url": "https://www.nhs.uk/conditions/melanoma-skin-cancer/"
+    },
+    {
+      "title": "Melanoma: Signs and Symptoms (ABCDE Checklist) - American Academy of Dermatology",
+      "url": "https://www.aad.org/public/diseases/skin-cancer/types/common/melanoma/symptoms"
+    },
+    {
+      "title": "Melanoma - DermNet NZ",
+      "url": "https://dermnetnz.org/topics/melanoma"
+    }
+  ],
+  "reviewed_by_clinician": false
+}
+

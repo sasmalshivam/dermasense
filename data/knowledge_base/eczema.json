@@ -1,0 +1,79 @@
+{
+  "condition_id": "eczema",
+  "name": "Eczema (Atopic Dermatitis)",
+  "local_names": [
+    "Atopic eczema",
+    "Allergic dermatitis",
+    "Vicharchika",
+    "Khaaj"
+  ],
+  "description": "Eczema is a non-contagious, inflammatory skin condition that causes dry, red, itchy, and irritated patches of skin. It commonly flares up on the elbows, behind the knees, hands, and face.",
+  "common_symptoms": [
+    "Dry, cracked, sensitive, and itchy skin",
+    "Red or brownish-gray patches (may look purple, grayish, or darker brown on deeper skin tones)",
+    "Small raised bumps that may leak clear fluid when scratched and crust over",
+    "Thickened, leathery skin from chronic rubbing and scratching (lichenification)",
+    "Severe itchiness, especially at night"
+  ],
+  "causes": [
+    "A weakened skin barrier that allows moisture to escape and irritants/allergens to enter",
+    "Overactive immune response triggered by genetics and environmental allergens"
+  ],
+  "risk_factors": [
+    "Personal or family history of eczema, asthma, or hay fever (atopic triad)",
+    "Cold, dry weather or extreme heat and humidity",
+    "Harsh soaps, detergents, fragrances, and wool or synthetic fabrics",
+    "Psychological stress and lack of sleep"
+  ],
+  "first_aid": [
+    "Apply a cool, damp compress to soothe intense itchiness",
+    "Apply a generous layer of fragrance-free moisturizer or petroleum jelly immediately after a warm bath",
+    "Trim fingernails short to prevent skin damage from nighttime scratching"
+  ],
+  "precautions": [
+    "Take short (5 to 10 minute) lukewarm baths instead of hot showers",
+    "Moisturize skin within 3 minutes of bathing to lock in hydration",
+    "Wear breathable, soft 100% cotton clothing",
+    "Use mild, unscented cleansers and fragrance-free laundry detergents"
+  ],
+  "home_care": [
+    "Keep skin constantly moisturized with plain ointments or thick creams",
+    "Use a humidifier in dry indoor environments",
+    "Avoid known personal food or contact triggers"
+  ],
+  "do_not": [
+    "DO NOT take long, steaming hot showers or baths that strip natural oils",
+    "DO NOT scratch or rub patches aggressively with fingernails or rough towels",
+    "DO NOT use heavily scented soaps, antibacterial soaps, or bubble baths",
+    "DO NOT apply strong steroid creams without a doctor's guidance"
+  ],
+  "red_flags": [
+    "Skin develops golden honey-colored crusts or pus blisters (secondary bacterial infection like impetigo)",
+    "Rapid spread of painful small blisters with fever (eczema herpeticum - medical emergency)",
+    "Spreading redness, warmth, swelling, and fever"
+  ],
+  "when_to_see_doctor": "See a doctor or dermatologist if your eczema is painful, causes sleepless nights, spreads rapidly, or shows signs of infection like oozing yellow fluid or pus.",
+  "contagious": false,
+  "severity_level": "medium",
+  "prevention": [
+    "Moisturize skin at least twice a day every day",
+    "Identify and avoid harsh chemical cleaners, synthetic fabrics, and irritants",
+    "Manage stress and maintain a consistent sleep schedule"
+  ],
+  "sources": [
+    {
+      "title": "Atopic dermatitis (eczema) - World Health Organization (WHO)",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/atopic-dermatitis-(eczema)"
+    },
+    {
+      "title": "Atopic eczema - NHS UK",
+      "url": "https://www.nhs.uk/conditions/atopic-eczema/"
+    },
+    {
+      "title": "Atopic Dermatitis: Overview - American Academy of Dermatology",
+      "url": "https://www.aad.org/public/diseases/eczema/types/atopic-dermatitis"
+    }
+  ],
+  "reviewed_by_clinician": false
+}
+

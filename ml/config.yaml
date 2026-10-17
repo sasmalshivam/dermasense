@@ -1,0 +1,86 @@
+# DermaSense ML Configuration
+# Model Architecture & Pretraining
+model:
+  backbone: "efficientnet_b3"          # Primary vision backbone (timm)
+  cpu_fallback_backbone: "efficientnet_b0" # Lightweight fallback if CPU-only
+  pretrained: true                     # ImageNet pretraining
+  img_size: 300                        # Default resolution for efficientnet_b3
+  cpu_img_size: 224                    # Fallback resolution for CPU execution
+  dropout: 0.3                         # Classification head dropout
+
+# Two-Stage Training Protocol
+training:
+  seed: 42
+  batch_size: 32
+  cpu_batch_size: 16
+  num_workers: 2
+  mixed_precision: true               # Enabled on CUDA, auto-disabled on CPU
+  
+  # Stage 1: Classifier head training (frozen backbone)
+  stage1:
+    epochs: 5
+    lr: 1.0e-3
+    weight_decay: 1.0e-4
+
+  # Stage 2: Full backbone fine-tuning with Cosine Annealing
+  stage2:
+    epochs: 25
+    lr: 1.0e-4
+    min_lr: 1.0e-6
+    weight_decay: 1.0e-4
+    cosine_t_max: 25
+
+  # Class Imbalance Handling
+  imbalance:
+    method: "focal_loss"              # Options: "focal_loss", "weighted_ce", "weighted_sampler"
+    focal_gamma: 2.0
+    use_weighted_sampler: true
+
+  # Early Stopping & Checkpointing
+  early_stopping:
+    monitor: "val_macro_f1"
+    mode: "max"
+    patience: 5
+
+# Data Augmentations (Simulating real-world clinical/smartphone photography)
+augmentation:
+  random_horizontal_flip: 0.5
+  random_vertical_flip: 0.5
+  random_rotation_degrees: 180
+  color_jitter:
+    brightness: 0.2
+    contrast: 0.2
+    saturation: 0.2
+    hue: 0.1
+  random_resized_crop:
+    scale_min: 0.8
+    scale_max: 1.0
+  gaussian_blur:
+    kernel_size: 3
+    sigma_min: 0.1
+    sigma_max: 2.0
+
+# Post-Training Calibration & OOD Detection
+calibration:
+  method: "temperature_scaling"
+  max_iter: 100
+  lr: 0.01
+
+ood:
+  max_softmax_percentile: 5           # Percentile on validation set for threshold
+  energy_temperature: 1.0
+  energy_percentile: 5                # Reject bottom 5% as out-of-distribution
+
+# Storage Paths
+paths:
+  splits_csv: "data/splits.csv"
+  train_csv: "data/train.csv"
+  val_csv: "data/val.csv"
+  test_csv: "data/test.csv"
+  weights_dir: "ml/weights"
+  logs_dir: "ml/logs"
+  best_checkpoint: "ml/weights/best_model.pt"
+  onnx_export: "ml/weights/model.onnx"
+  temperature_file: "ml/weights/temperature.json"
+  labels_file: "ml/weights/labels.json"
+

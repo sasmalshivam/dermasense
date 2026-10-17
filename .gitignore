@@ -1,0 +1,37 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.cache/
+frontend/.npm/
+frontend/.vercel/
+
+# Large training checkpoints
+*.pt
+*.pth
+*.safetensors
+data/raw/
+
+# Allow model.onnx and weights needed for inference
+!ml/weights/model.onnx
+!ml/weights/model.onnx.data
+!ml/weights/labels.json
+!ml/weights/temperature.json
+
+# Local databases & logs
+*.log
+data/surveillance.db
+
+# System
+.DS_Store
+Thumbs.db

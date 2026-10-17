@@ -1,0 +1,74 @@
+{
+  "condition_id": "benign_keratosis",
+  "name": "Benign Keratosis (Seborrheic Keratosis)",
+  "local_names": [
+    "Seborrheic keratosis",
+    "Wisdom spots",
+    "Barnacles of aging",
+    "Shanta twak vardhana"
+  ],
+  "description": "Benign keratosis (often seborrheic keratosis) is a very common non-cancerous skin growth. It often appears as a waxy, brown, black, or tan raised spot that looks 'stuck on' the skin. They are harmless and never turn into skin cancer.",
+  "common_symptoms": [
+    "Round or oval raised spot that looks like melted candle wax dropped on the skin",
+    "Slightly raised, rough, or wart-like texture",
+    "Color ranges from light tan to dark brown or black",
+    "May occasionally itch or catch on clothing",
+    "Appears commonly on the chest, back, neck, or face"
+  ],
+  "causes": [
+    "Natural skin aging and genetic factors",
+    "Exact cause is unknown, but they are not caused by viral infections or sun damage alone"
+  ],
+  "risk_factors": [
+    "Age over 50 years (they become more common as people get older)",
+    "Family history of seborrheic keratoses"
+  ],
+  "first_aid": [
+    "Leave the spot alone if it is not irritated",
+    "If irritated by clothing, cover loosely with a bandage",
+    "Do not scratch, pinch, or try to peel off the growth"
+  ],
+  "precautions": [
+    "Avoid scratching or picking at the lesions",
+    "Keep watch for any sudden change in color or irregular borders to rule out other conditions",
+    "Wear loose, soft clothing if spots rub against seams or waistbands"
+  ],
+  "home_care": [
+    "Gently wash the area with regular soap and water",
+    "Moisturize skin if dry or mildly itchy",
+    "Never attempt home surgery or acid removal"
+  ],
+  "do_not": [
+    "DO NOT attempt to scrape, burn, or cut off the growths yourself",
+    "DO NOT use unprescribed wart removers or salicylic acid patches",
+    "DO NOT assume every dark spot is harmless without checking if it rapidly changes"
+  ],
+  "red_flags": [
+    "Rapid development of dozens of new spots over weeks",
+    "Spontaneous bleeding, ulceration, or oozing without injury",
+    "The spot becomes asymmetrical with jagged edges and multiple colors"
+  ],
+  "when_to_see_doctor": "See a doctor or dermatologist if a spot bleeds, becomes painful, or if you are not certain whether it is a harmless growth or something more serious.",
+  "contagious": false,
+  "severity_level": "low",
+  "prevention": [
+    "No proven way to prevent benign keratoses as they are related to age and genetics",
+    "Maintain healthy skin care and routine skin self-checks"
+  ],
+  "sources": [
+    {
+      "title": "Seborrhoeic keratoses - NHS UK",
+      "url": "https://www.nhs.uk/conditions/seborrhoeic-keratoses/"
+    },
+    {
+      "title": "Seborrheic Keratoses: Overview - American Academy of Dermatology",
+      "url": "https://www.aad.org/public/diseases/a-z/seborrheic-keratoses-overview"
+    },
+    {
+      "title": "Seborrhoeic keratosis - DermNet NZ",
+      "url": "https://dermnetnz.org/topics/seborrhoeic-keratosis"
+    }
+  ],
+  "reviewed_by_clinician": false
+}
+

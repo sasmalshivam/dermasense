@@ -1,0 +1,78 @@
+{
+  "condition_id": "actinic_keratosis",
+  "name": "Actinic Keratosis",
+  "local_names": [
+    "Solar keratosis",
+    "Pre-cancerous sun spot",
+    "Suryaja kharata"
+  ],
+  "description": "Actinic keratosis is a rough, scaly patch on the skin caused by years of sun exposure. It is considered a pre-cancerous lesion because some patches may turn into squamous cell skin cancer if left untreated.",
+  "common_symptoms": [
+    "A rough, dry, or sandpaper-like patch of skin",
+    "Flat to slightly raised scaly crust",
+    "Pink, red, tan, or skin-colored patch",
+    "Itching, burning, or tender sensation when touched",
+    "Commonly found on the face, scalp, ears, neck, hands, or forearms"
+  ],
+  "causes": [
+    "Cumulative damage to skin cells from chronic ultraviolet (UV) light exposure from sunlight or tanning booths"
+  ],
+  "risk_factors": [
+    "Fair skin that burns or freckles easily in the sun",
+    "Older age (typically 40 years and older)",
+    "Extensive outdoor work or recreational sun exposure",
+    "Bald scalp exposed to direct sunlight",
+    "Weakened immune system"
+  ],
+  "first_aid": [
+    "Do not scratch, pick, or peel the rough scabs",
+    "Gently moisturize the area with fragrance-free lotion",
+    "Wear a hat and sunscreen to protect the spot from more sun",
+    "Consult a dermatologist or health clinic for evaluation"
+  ],
+  "precautions": [
+    "Use broad-spectrum sunscreen with SPF 30 or higher every morning",
+    "Wear wide-brimmed hats to shade your face, ears, and neck",
+    "Stay out of midday sun between 10 AM and 4 PM",
+    "Check your skin regularly for changing or hardening spots"
+  ],
+  "home_care": [
+    "Gently wash the area with mild soap and water",
+    "Keep skin hydrated with plain petroleum jelly or gentle moisturizer",
+    "Never attempt chemical peels or acid treatments at home"
+  ],
+  "do_not": [
+    "DO NOT scratch or pick off the rough crusts, as they will return and may bleed",
+    "DO NOT use unprescribed wart removers or caustic creams",
+    "DO NOT ignore patches that become thicker, tender, or start bleeding"
+  ],
+  "red_flags": [
+    "The patch rapidly grows thicker, harder, or raises up into a horn-like bump",
+    "The area becomes painful, red, swollen, or starts bleeding spontaneously",
+    "The spot does not heal after several weeks"
+  ],
+  "when_to_see_doctor": "See a doctor or dermatologist promptly if you notice persistent rough or scaly patches on sun-exposed skin, especially if they become thick, painful, or bleed.",
+  "contagious": false,
+  "severity_level": "medium",
+  "prevention": [
+    "Apply broad-spectrum sunscreen daily to all exposed skin",
+    "Wear protective clothing, broad hats, and UV-blocking sunglasses",
+    "Avoid tanning beds and artificial UV lamps"
+  ],
+  "sources": [
+    {
+      "title": "Actinic keratoses (solar keratoses) - NHS UK",
+      "url": "https://www.nhs.uk/conditions/actinic-keratoses/"
+    },
+    {
+      "title": "Actinic Keratosis: Overview and Symptoms - American Academy of Dermatology",
+      "url": "https://www.aad.org/public/diseases/skin-cancer/types/common/ak"
+    },
+    {
+      "title": "Actinic keratosis - DermNet NZ",
+      "url": "https://dermnetnz.org/topics/actinic-keratosis"
+    }
+  ],
+  "reviewed_by_clinician": false
+}
+

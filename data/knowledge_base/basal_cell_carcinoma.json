@@ -1,0 +1,76 @@
+{
+  "condition_id": "basal_cell_carcinoma",
+  "name": "Basal Cell Carcinoma",
+  "local_names": [
+    "Common non-melanoma skin cancer",
+    "BCC",
+    "Mula twak karkata"
+  ],
+  "description": "Basal cell carcinoma is the most common form of skin cancer. It usually grows slowly over months or years on sun-exposed skin like the face, nose, and neck. It rarely spreads to other organs, but can damage local skin tissue if left untreated.",
+  "common_symptoms": [
+    "A shiny, pearly, or translucent bump on the skin",
+    "Small visible red blood vessels across the bump",
+    "A sore or scab that bleeds, heals partly, and then returns",
+    "A pink growth with slightly raised rolled edges and a dent in the center",
+    "A flat, firm, pale or yellowish scar-like area with indistinct edges"
+  ],
+  "causes": [
+    "Damage to skin cell DNA from long-term sun exposure and UV rays"
+  ],
+  "risk_factors": [
+    "Light skin, blue or green eyes, or red/blond hair",
+    "Many years of outdoor work or intense sun exposure",
+    "Frequent sunburns in past years",
+    "Older age (over 50 years)"
+  ],
+  "first_aid": [
+    "Do not scratch, peel, or pick at scabby bumps",
+    "Keep the skin area clean with mild soap and water",
+    "Shield the area from direct sun using a wide-brimmed hat",
+    "Schedule an evaluation with a doctor or dermatologist"
+  ],
+  "precautions": [
+    "Wear sunscreen with SPF 30+ every day on your face and neck",
+    "Wear wide-brimmed hats and sunglasses outside",
+    "Stay in the shade during midday sun (10 AM to 4 PM)",
+    "Watch for sores that fail to heal after 3 to 4 weeks"
+  ],
+  "home_care": [
+    "Gently wash the area with mild cleanser and pat dry",
+    "Do not put aggressive ointments or acids on the sore"
+  ],
+  "do_not": [
+    "DO NOT pick at crusty or pearly bumps repeatedly",
+    "DO NOT use over-the-counter wart removers on facial sores",
+    "DO NOT ignore a sore that repeatedly bleeds and fails to heal"
+  ],
+  "red_flags": [
+    "A persistent sore that fails to heal after 4 weeks",
+    "A growth located close to the eye, eyelid, nose, or ear",
+    "Progressive enlargement or tissue erosion"
+  ],
+  "when_to_see_doctor": "See a doctor or dermatologist if you notice a shiny bump, a non-healing scab, or a sore that repeatedly bleeds over 3 to 4 weeks.",
+  "contagious": false,
+  "severity_level": "medium",
+  "prevention": [
+    "Use broad-spectrum sunscreen daily on the face and neck",
+    "Wear hats and protective clothing in direct sun",
+    "Avoid indoor tanning completely"
+  ],
+  "sources": [
+    {
+      "title": "Non-melanoma skin cancer - NHS UK",
+      "url": "https://www.nhs.uk/conditions/non-melanoma-skin-cancer/"
+    },
+    {
+      "title": "Basal Cell Carcinoma: Signs and Symptoms - American Academy of Dermatology",
+      "url": "https://www.aad.org/public/diseases/skin-cancer/types/common/bcc/symptoms"
+    },
+    {
+      "title": "Basal cell carcinoma - DermNet NZ",
+      "url": "https://dermnetnz.org/topics/basal-cell-carcinoma"
+    }
+  ],
+  "reviewed_by_clinician": false
+}
+
